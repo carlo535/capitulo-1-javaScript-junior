@@ -1,0 +1,27 @@
+3 chicos de 23 años entran a una heladeria a comprar un helado
+pero hay un problema, los precios no estan al lado de cada estante
+con su respectivo helado, ellos quieren comprar el helado mas caro 
+que puedan comprar con el dinero que tienen. asi que veamos como podemos resolverlo.
+ 
+
+cada uno tiene distinta cantidades de dinero y hay una tabla para basarnos
+en cada costo de distintos helados.
+
+roberto tiene = $1.5
+pedro tiene = $1.7
+cofla tiene = $3
+
+Precio de los helados:
+	Palito de helado de agua : $0.6
+	   ""   ""  ""   de crema : $1
+	Bombom helado marca heladix : $1.6
+	   ""    ""   marca heladovich : $1.7
+	   ""    ""   marca helardo : $1.8
+	Potecito de helado con confites : $2.9
+	Pote de 1/4 KG : $2.9
+
+crear la siguiente solucion:
+	1. pedirles que ingresen el monto que tienen
+	   y mostrarles el helado mas caro que puedan comprar.
+	2. si hay dos o mas con el mismo precio mostrar ambos
+	3. depaso cofla quiere saber cuanto es el vuelto
